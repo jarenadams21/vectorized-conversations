@@ -15,5 +15,6 @@
     brew install ffmpeg
     ```
 
+(to use, just run the file in vscode or a python shell)
 ### Original Demo Reference
 https://www.youtube.com/watch?v=Si0vFx_dJ5Y
